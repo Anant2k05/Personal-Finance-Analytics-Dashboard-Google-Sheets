@@ -69,4 +69,47 @@ Rather than serving as a simple expense tracker, the dashboard provides an analy
 - 📌 Dynamic KPI Cards
 - ⚡ Real-time Dashboard Updates
 
+# 🤖 Development Assistance
+
+During the development of this project, **Google Gemini** was used to assist with formula optimization, problem-solving, and spreadsheet development, while the dashboard design, data model, automation logic, and implementation were built in Google Sheets.
+
+# 🧮 Formula Highlights
+
+This project extensively uses advanced spreadsheet functions, including:
+
+- SUMIFS()
+- COUNTIFS()
+- FILTER()
+- QUERY()
+- INDEX()
+- MATCH()
+- XLOOKUP()
+- IF()
+- IFS()
+- ARRAYFORMULA()
+- UNIQUE()
+- SORT()
+- MAX()
+- MIN()
+- AVERAGE()
+
 ---
+
+# 🚧 Future Improvements
+
+- 📅 Annual Dashboard
+- 📈 Financial Health Score
+- 💹 Investment Portfolio Tracking
+- 📊 Forecasting & Trend Analysis
+- ⚡ Apps Script Automation
+- 📱 Mobile-Optimized Dashboard
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+## ⭐ If you found this project interesting, consider giving it a star!
